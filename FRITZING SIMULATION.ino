@@ -1,7 +1,7 @@
 /************ BLYNK CONFIG ************/
-#define BLYNK_TEMPLATE_ID "TMPL3zOLc4qj9"
+#define BLYNK_TEMPLATE_ID "paste your blynk id"
 #define BLYNK_TEMPLATE_NAME "IOT SMART ROOM MONITOR"
-#define BLYNK_AUTH_TOKEN "jFKIL2VlxBV9Jx6qkFwSeBRydz8WjZZ7"
+#define BLYNK_AUTH_TOKEN "paste your blynk authentication token"
 
 
 /************ LIBRARIES ************/
@@ -14,13 +14,13 @@
 
 
 /************ WIFI ************/
-char ssid[] = "Airtel_Lakshya";
-char pass[] = "Lakshya@2005";
+char ssid[] = "wifi name";
+char pass[] = "wifi password";
 
 
 /************ TELEGRAM ************/
-#define BOT_TOKEN "8260273064:AAGeCSSdZ_H1crOQv8J4jFXnLWfrKiQAXHI"
-#define CHAT_ID "5622745127"
+#define BOT_TOKEN "paste your bot token "
+#define CHAT_ID "paste your chat ID"
 
 
 /************ SENSOR PINS ************/
