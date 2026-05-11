@@ -1,4 +1,9 @@
 # iot-smart-room-monitoring-and-safety-device
+ # important files for this prototype -:
+   # 1) IOT PROJECT REPORT FINAL.pdf FOR COMPLETE THEORY AND WORKING PART 
+   # 2) esp32cam-code.ino FOR CODE PART 
+   # 3) Untitled Sketch 2.fzz FOR SIMULATION OF THE PROJECT 
+
 The proposed project, “IoT Smart Room Monitoring & Security System using ESP32-CAM,” is an advanced IoT-based safety and surveillance system designed to provide real-time environmental monitoring and intelligent security features. The system integrates multiple sensors with the ESP32-CAM microcontroller to detect hazardous conditions such as gas leakage, fire, and unauthorized motion while simultaneously monitoring temperature and humidity. The ESP32-CAM acts as the central processing and communication unit, enabling wireless connectivity, image capture, and live video streaming.
 
 The system uses a DHT22 sensor for measuring temperature and humidity, an MQ-2 gas sensor for detecting smoke and combustible gases, a flame sensor for fire detection, and a PIR motion sensor for detecting human movement. These sensors continuously send data to the ESP32-CAM through digital GPIO connections. The collected data is processed in real time, and the system checks for abnormal conditions based on predefined logic.
